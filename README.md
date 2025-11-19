@@ -18,9 +18,7 @@
   <a href="https://fb.com/biplob.14133" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/biplob.sordar" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+ 
   <a href="mailto:biplob.code.bd@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
