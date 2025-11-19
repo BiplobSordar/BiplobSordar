@@ -36,6 +36,17 @@ _If it can be built, I’ll build it. If it can be automated, I’ll automate it
 
 ---
 
+
+
+<h3 style="color:#0A66C2;">💻 Technologies I am Learning</h3>
+  <ul style="list-style-type:circle; text-align:left; display:inline-block;">
+    <li>AWS (Amazon Web Services)</li>
+    <li>Docker</li>
+    <li>Ansible</li>
+    <li>Jenkins</li>
+    <li>Kubernetes (K8s)</li>
+  </ul>
+
 ## 🛠 Tech Stack
 
 ### 🎨 **Frontend**
