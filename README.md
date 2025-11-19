@@ -1,66 +1,73 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/zZ9mJ9Z.png" alt="Biplob Sordar Banner" width="100%">
+  <img src="  https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=3840&fit=max" alt="Biplob Sordar Banner" width="100%">
+
 </p>
 
-<!-- Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&width=600&lines=Full+Stack+MERN+Developer;DevOps+%26+Cloud+Practitioner;SQL+%26+NoSQL+Database+Expert;Lifelong+Learner" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Biplob Sordar</h1>
+<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
+
+---
+
+## 🔗 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/biplob-sordar-047a87264" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://fb.com/biplob.14133" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/biplob.sordar" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:biplob.code.bd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me  
 
-Hey there! I’m **Biplob**, a developer who enjoys turning ideas into things people can actually use.  
-Most of my work revolves around **MERN stack development**, but I also spend plenty of time in the **DevOps** world, tinkering with pipelines, cloud services, and deployment strategies.  
+Hi, I'm **Biplob** — a developer who enjoys converting ideas into working applications.  
+My expertise lies in the **MERN Stack**, and I also work heavily with **DevOps**, **Cloud**, and **automation tools**.
 
-Here’s what gets me excited:  
-- 🖥 **Frontend:** Building fast, clean, and responsive interfaces with React, Next.js, and Tailwind CSS.  
-- ⚙️ **Backend:** Crafting secure APIs and solid backends with Node.js & Express.  
-- 🗄 **Databases:** Making data behave — whether it’s MongoDB, PostgreSQL, or MySQL.  
-- ☁️ **DevOps & Cloud:** Dockerizing apps, orchestrating with Kubernetes, and running things on AWS.  
-- 📈 **Optimization:** Shaving off load times, boosting performance, and making things scale without breaking.  
-
-Right now, I’m diving deeper into:  
-- Terraform for automating infrastructure  
-- Smarter Kubernetes setups  
-- Ways to cut down cloud costs without losing performance  
-
-💡 My approach is simple: _“If it can be built, I’ll build it. If it can be automated, I’ll automate it. Then I’ll make it faster.”_  
+💡 **Philosophy:**  
+_If it can be built, I’ll build it. If it can be automated, I’ll automate it — and then make it faster._
 
 ---
 
-## 🛠 My Tech Arsenal  
+## 🛠 Tech Stack
 
+### 🎨 **Frontend**
 <p align="center">
-  <b>Frontend</b><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,redux" height="45" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,redux" height="50">
 </p>
 
+### ⚙️ **Backend**
 <p align="center">
-  <b>Backend</b><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="45" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="50">
 </p>
 
+### 🗄️ **Databases**
 <p align="center">
-  <b>Databases</b><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" height="45" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" height="50">
 </p>
 
+### ☁️ **DevOps & Cloud**
 <p align="center">
-  <b>DevOps & Cloud</b><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,azure,vercel,netlify" height="45" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,azure,nginx" height="50">
 </p>
 
+### 🔧 **Tools & Utilities**
 <p align="center">
-  <b>Tools & Utilities</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,nginx" height="45" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,figma" height="50">
 </p>
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Insights  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BiplobSordar&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
@@ -73,16 +80,9 @@ Right now, I’m diving deeper into:
 
 ---
 
-## 📈 Contribution Graph
-![Biplob's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BiplobSordar&theme=tokyo-night)
-
----
-
-## 🌐 Connect With Me  
+## 📈 Contribution Graph  
 <p align="center">
-  <a href="https://github.com/BiplobSordar"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/biplob-sordar-047a87264/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:biplob.code.bd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BiplobSordar&theme=tokyo-night" />
 </p>
 
 ---
